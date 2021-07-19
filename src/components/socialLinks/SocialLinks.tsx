@@ -17,7 +17,7 @@ const SocialLinks = () => (
     </Box>
     <Box ml={1.5}>
       <Link
-        href='https://github.com/manpreetjsb'
+        href='https://www.linkedin.com/in/manpreet-singh-6928a8135/'
         color='inherit'
         target='_blank'
       >
