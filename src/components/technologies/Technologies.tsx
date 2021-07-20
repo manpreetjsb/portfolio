@@ -2,6 +2,7 @@ import React from 'react'
 import { Box, Container } from '@material-ui/core'
 import Grid from '@material-ui/core/Grid'
 import { DiNodejs } from 'react-icons/di'
+import Typography from '@material-ui/core/Typography'
 import {
   SiTypescript,
   SiNextDotJs,
@@ -24,6 +25,12 @@ const Technologies: React.FC = () => (
       <Box m={5}>
         <Grid>
           <Box component='h2'>Technologies</Box>
+          <Box m={5}>
+            <Typography>
+              I have worked with a number of different Languages, Frameworks and
+              Technologies, below are a few of the ones I am most familiar with.
+            </Typography>
+          </Box>
         </Grid>
         <section>
           <UL container spacing={5}>
