@@ -6,6 +6,7 @@ import SocialLinks from '../socialLinks/SocialLinks'
 import Footer from '../footer/Footer'
 import Technologies from '../technologies/Technologies'
 import AboutUs from '../about-us/About-us'
+import Projects from '../projects/Projects'
 
 const Home: React.FC = () => (
   <>
@@ -23,6 +24,9 @@ const Home: React.FC = () => (
       </Grid>
       <Box m={10} component='h2'>
         Hi, My name is Manpreet Singh, I am Frontend Developer.
+      </Box>
+      <Box>
+        <Projects />
       </Box>
       <Box>
         <AboutUs />
