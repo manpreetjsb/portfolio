@@ -1,7 +1,6 @@
 import React from 'react'
 import { Box, Container } from '@material-ui/core'
 import Grid from '@material-ui/core/Grid'
-import Divider from '@material-ui/core/Divider'
 import SocialLinks from '../socialLinks/SocialLinks'
 import Footer from '../footer/Footer'
 import Technologies from '../technologies/Technologies'
