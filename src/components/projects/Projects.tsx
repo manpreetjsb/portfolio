@@ -231,7 +231,7 @@ const Projects: React.FC = () => (
             <Button
               size='small'
               color='primary'
-              href='https://github.com/manpreetjsb/currency-convertor'
+              href='https://github.com/manpreetjsb/portfolio'
               target='_blank'
             >
               Github source
